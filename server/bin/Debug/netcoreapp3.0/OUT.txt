@@ -1,0 +1,18 @@
+Number of threads: 8
+Total requests: 50
+Requests completed: 50
+Rejected requests: 0
+Tread #1 completed: 15 requests; waiting ticks: 15
+Tread #2 completed: 13 requests; waiting ticks: 23
+Tread #3 completed: 11 requests; waiting ticks: 25
+Tread #4 completed: 7 requests; waiting ticks: 35
+Tread #5 completed: 4 requests; waiting ticks: 41
+Tread #6 completed: 0 requests; waiting ticks: 50
+Tread #7 completed: 0 requests; waiting ticks: 50
+Tread #8 completed: 0 requests; waiting ticks: 50
+Intensity of the flow of requests: 6
+System downtime probability: 0,003331746787244169
+System failure probability: 0,1387910518800571
+Relative bandwidth: 0,8612089481199429
+Absolute bandwidth: 43,060447405997145
+Average busy channels: 5,382555925749643
