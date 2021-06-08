@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ANDREW\\Documents\\UNN\\MIPS\\mod-task07-server\\Server\\Server\\Server.csproj": {}
+    "C:\\Users\\ANDREW\\Documents\\UNN\\MIPS\\mod-task07-server\\Server\\Server.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ANDREW\\Documents\\UNN\\MIPS\\mod-task07-server\\Server\\Server\\Server.csproj": {
+    "C:\\Users\\ANDREW\\Documents\\UNN\\MIPS\\mod-task07-server\\Server\\Server.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ANDREW\\Documents\\UNN\\MIPS\\mod-task07-server\\Server\\Server\\Server.csproj",
+        "projectUniqueName": "C:\\Users\\ANDREW\\Documents\\UNN\\MIPS\\mod-task07-server\\Server\\Server.csproj",
         "projectName": "Server",
-        "projectPath": "C:\\Users\\ANDREW\\Documents\\UNN\\MIPS\\mod-task07-server\\Server\\Server\\Server.csproj",
+        "projectPath": "C:\\Users\\ANDREW\\Documents\\UNN\\MIPS\\mod-task07-server\\Server\\Server.csproj",
         "packagesPath": "C:\\Users\\ANDREW\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ANDREW\\Documents\\UNN\\MIPS\\mod-task07-server\\Server\\Server\\obj\\",
+        "outputPath": "C:\\Users\\ANDREW\\Documents\\UNN\\MIPS\\mod-task07-server\\Server\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "G:\\Microsoft Visual Studio Shared\\NuGetPackages"

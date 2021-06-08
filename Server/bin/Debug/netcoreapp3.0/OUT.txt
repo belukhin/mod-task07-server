@@ -2,12 +2,12 @@ Number of threads: 8
 Total requests: 50
 Requests completed: 50
 Rejected requests: 0
-Tread #1 completed: 16 requests; waiting ticks: 16
-Tread #2 completed: 14 requests; waiting ticks: 23
-Tread #3 completed: 11 requests; waiting ticks: 26
-Tread #4 completed: 6 requests; waiting ticks: 38
-Tread #5 completed: 2 requests; waiting ticks: 46
-Tread #6 completed: 1 requests; waiting ticks: 47
+Tread #1 completed: 19 requests; waiting ticks: 19
+Tread #2 completed: 15 requests; waiting ticks: 23
+Tread #3 completed: 10 requests; waiting ticks: 35
+Tread #4 completed: 5 requests; waiting ticks: 42
+Tread #5 completed: 1 requests; waiting ticks: 49
+Tread #6 completed: 0 requests; waiting ticks: 50
 Tread #7 completed: 0 requests; waiting ticks: 50
 Tread #8 completed: 0 requests; waiting ticks: 50
 Intensity of the flow of requests: 6
