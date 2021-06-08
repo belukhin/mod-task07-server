@@ -143,7 +143,7 @@ namespace SERVER
             double p0 = 1 / temp;
             double pn = Math.Pow(p, server.CountPool) * p0 / Fact(server.CountPool);
 
-            output += "Number of threads: " + server.CountPool + '\n' + "Total requests: " + server.CountRequests + '\n' 
+            output += "Number of threads: " + server.CountPool + '\n' + "Total requests: " + server.CountRequests + '\n'
                     + "Requests completed: " + server.CountProcessed + '\n' + "Rejected requests: " + server.CountRejected + '\n';
 
             for (int i = 0; i < server.CountPool; i++)
